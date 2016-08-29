@@ -1,0 +1,13 @@
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/UnityEngine.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/UnityEditor.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/UnityEngine.UI.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/UnityEngine.Networking.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Unity.DataContract.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Mono.Cecil.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Unity.SerializationLogic.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Unity.UNetWeaver.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Unity.CecilTools.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/media/storage/Documents/ld36/LD36/Temp/bin/Debug/Mono.Cecil.Mdb.dll
